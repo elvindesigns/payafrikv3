@@ -391,7 +391,7 @@ a:hover, a:focus, a:active { color: #16a3fe; }
 .section-bg-muscari .section-head-s5 .section-title:after { background: #41faa4; }
 
 .text-box h6 { color: #41faa4 !important; }
-.text-box.text-box-bg { background: rgba(0, 0, 0, 0.2); }
+.text-box.text-box-bg { background: rgb(9, 44, 119); }
 
 .roadmap-carousel-withnav .owl-prev, .roadmap-carousel-withnav .owl-next { color: rgba(49, 31, 155, 0.3); }
 
